@@ -4,8 +4,8 @@
 ## Backend
 
 ### Technologies
-1 Nodejs
-2 Express
+1. Nodejs
+2. Express
 
 ### How to run
 1. cd assessment-server
